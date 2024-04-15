@@ -1,7 +1,7 @@
 # Md. Mutasim Billah
 
 ## About Me
-I am Md. Mutasim Billah, a passionate and dedicated programmer with a focus on web development, UX/UI design, and robotics. Currently serving as the Founder and CEO of Glorysoftbd, I lead a talented team in delivering high-quality software solutions. My journey in technology also includes exploration as a student at NVIDIA Robotics, delving into the fascinating realms of robotics and artificial intelligence.
+I am Md. Mutasim Billah, is a passionate and dedicated programmer with a focus on web development, UX/UI design, and robotics. Currently serving as the Founder and CEO of Glorysoftbd, I lead a talented team in delivering high-quality software solutions. My journey in technology also includes exploration as a student at NVIDIA Robotics, delving into the fascinating realms of robotics and artificial intelligence.
 
 ## Professional Experience
 - **Founder and CEO, Glorysoftbd**: Steering a dynamic team towards innovation, I oversee the development of cutting-edge software solutions and ensure top-notch service delivery to our esteemed clients.
@@ -15,9 +15,9 @@ I am Md. Mutasim Billah, a passionate and dedicated programmer with a focus on w
 - **Sharifabad School and College**: Nurturing a strong academic foundation, I actively engage in extracurricular activities to broaden my horizons and develop essential life skills.
 
 ## Projects
-- **Glorysoftbd Website**: As the mastermind behind our official website, I designed and developed a platform that showcases our services and portfolio in an engaging and informative manner.
+- **Glorysoftbd **: Glorysoftbd is your go-to destination for cutting-edge solutions in software, robotics, and information technology. With a passion for innovation and a commitment to excellence, we strive to empower businesses and individuals alike through transformative technology. Our team of experts is dedicated to delivering bespoke solutions tailored to your needs, driving efficiency, and unlocking new possibilities. Join us on this journey of innovation as we shape the future together. Welcome to Glorysoftbd!
 - **YouTube Channel**: Through curated educational content on programming, technology, and robotics, I endeavor to share valuable insights and empower aspiring enthusiasts in their learning journey.
-- **Eid Mubarak Animation**: With creativity and finesse, I crafted a captivating animation and motion graphics to extend heartfelt Eid greetings to friends, family, and followers, spreading joy and blessings on this auspicious occasion.
+
 
 ## Get in Touch
 - **LinkedIn**: [Md. Mutasim Billah](#)
